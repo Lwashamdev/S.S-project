@@ -1,0 +1,81 @@
+body {
+  background-color: #999999ff;
+  font-family: "Special Elite", cursive;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 6rem;
+}
+
+.title {
+  background-color: black;
+  padding: 50px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+p {
+  font-size: larger;
+  width: 95%;
+  padding: 10px;
+}
+
+.spindletop {
+  width: 250px;
+  float: right;
+}
+.cell {
+  display: flex;
+}
+
+.cell-2 {
+  display: flex;
+}
+
+hr {
+  border-top: 7px dotted;
+  border-bottom: none;
+  width: 10%;
+  padding: 20px;
+}
+
+.history {
+  width: 85%;
+  padding: 10px;
+}
+
+.natives {
+  width: 400px;
+  height: 300px;
+  float: right;
+}
+
+.growth {
+  width: 1900px;
+}
+
+.Effects {
+  width: 1900px;
+}
+
+.bottom {
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+.rickroll {
+  text-align: center;
+  font-size: 1.5rem;
+}
